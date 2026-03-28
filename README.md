@@ -123,7 +123,7 @@ If you're a developer and you want to learn more about Sugarizer architecture, s
 All activities can be found in the [activities](activities) directory. Each activity has its own subdirectory. So for example, the *Abecedarium* activity is located in [activities/Abecedarium.activity](activities/Abecedarium.activity)
 
 You could distribute Sugarizer with whatever activities you want.
-To do that, you first need to adapt the content of the [activities](activities) directory to match your wish: removing activities you don't want to distribute and adding in this directory new activities you want to include.
+To do that, you first need to adapt the content of the [activities](activities) directory to match your needs: removing activities you don't want to distribute and adding in this directory new activities you want to include.
 
 Then you need to update the [activities.json](activities.json) file to reflect your choice.
 Here is an example of this file:
